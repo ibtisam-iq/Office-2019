@@ -31,7 +31,7 @@ Install and activate Office 2019 for FREE legally using Volume license
 
     ```cmd
     cscript ospp.vbs /setprt:1688
-    cscript ospp.vbs /unpkey:6MWKP >nul
+    cscript ospp.vbs /unpkey:6MWKP
     cscript ospp.vbs /inpkey:NMMKJ-6RK4F-KMJVX-8D9MJ-6MWKP
     cscript ospp.vbs /sethst:107.175.77.7
     cscript ospp.vbs /act
