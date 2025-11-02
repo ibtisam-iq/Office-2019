@@ -6,6 +6,38 @@ Install and activate Office 2019 for FREE legally using Volume license
 
 1. Open the Command Prompt with administrator privileges.
 
+Here’s how you can **open Command Prompt (cmd) with administrator privileges** in Windows 👇
+
+### 🪟 **Method 1: Using the Start Menu**
+
+1. Click **Start** (or press the **Windows key**).
+2. Type **cmd** or **Command Prompt**.
+3. Right-click on **Command Prompt** from the search results.
+4. Select **“Run as administrator.”**
+5. If prompted by **User Account Control (UAC)**, click **Yes**.
+
+### ⚡ **Method 2: Using the Run Dialog**
+
+1. Press **Windows + R** to open the Run box.
+2. Type:
+
+   ```
+   cmd
+   ```
+3. Then press **Ctrl + Shift + Enter** instead of just Enter.
+   → This directly opens Command Prompt as Administrator.
+4. Click **Yes** on the UAC prompt.
+
+### 💡 **Method 3: Using Task Manager**
+
+1. Press **Ctrl + Shift + Esc** to open Task Manager.
+2. Click **File → Run new task**.
+3. Type `cmd`.
+4. Check the box **“Create this task with administrative privileges.”**
+5. Click **OK**.
+
+---
+
 ## Step 2: Locate the Office Installation Directory
 
 2. Navigate to the directory where Office is installed on your PC. Run the following commands:
@@ -33,5 +65,6 @@ Install and activate Office 2019 for FREE legally using Volume license
     cscript ospp.vbs /setprt:1688
     cscript ospp.vbs /unpkey:6MWKP
     cscript ospp.vbs /inpkey:NMMKJ-6RK4F-KMJVX-8D9MJ-6MWKP
-    cscript ospp.vbs /sethst:107.175.77.7
+    cscript ospp.vbs /sethst:23.226.136.46
     cscript ospp.vbs /act
+    ```
