@@ -2,7 +2,7 @@
 
 Install and activate Office 2019 for FREE legally using Volume license
 
-[**Link to download iso image file**](https://officecdn.microsoft.com/pr/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/en-us/ProPlus2019Retail.img)
+> **Note:** Click [**here**](https://officecdn.microsoft.com/pr/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/en-us/ProPlus2019Retail.img) to download iso image file.
 
 ---
 
